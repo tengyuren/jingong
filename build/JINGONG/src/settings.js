@@ -1,0 +1,1 @@
+window._CCSettings={platform:"wechatgame-subcontext",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scene/3Dscenne/3D.fire",orientation:"",jsList:[],subContextRoot:"JINGONG",bundleVers:{internal:"7a9f9",main:"61580"}};

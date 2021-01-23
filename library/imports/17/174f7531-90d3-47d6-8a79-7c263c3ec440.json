@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kua3",
+    "texture": "b7ac09db-8e2f-4184-8e8d-089ea0a349bf",
+    "atlas": "",
+    "rect": [
+      218,
+      428,
+      363,
+      92
+    ],
+    "offset": [
+      -12.5,
+      185
+    ],
+    "originalSize": [
+      824,
+      1318
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

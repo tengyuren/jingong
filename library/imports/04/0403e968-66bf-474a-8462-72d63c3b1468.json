@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dui",
+    "texture": "9257507e-7b51-41fd-889d-aabf73996c25",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

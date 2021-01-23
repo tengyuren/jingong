@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "圆角矩形 4",
+    "texture": "3b956448-c2e1-4930-ac68-d9fe6c8b920f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      418,
+      557
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      418,
+      557
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

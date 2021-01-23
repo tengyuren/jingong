@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cuo",
+    "texture": "82b49881-f0d8-44a3-9869-befd1ad0e364",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
