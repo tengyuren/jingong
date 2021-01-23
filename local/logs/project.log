@@ -1,173 +1,179 @@
-2021-01-23T08:10:21.578Z - normal: Load ~/.CocosCreator/settings.json
-2021-01-23T08:10:21.619Z - normal: Initializing Asset Database
-2021-01-23T08:10:21.621Z - normal: checking language setting...
-2021-01-23T08:10:21.621Z - normal: Language: zh
-2021-01-23T08:10:22.235Z - success: preview server running at http://localhost:7456
-2021-01-23T08:10:22.241Z - success: protocol editor-framework registered
-2021-01-23T08:10:22.241Z - success: protocol app registered
-2021-01-23T08:10:22.241Z - success: protocol theme registered
-2021-01-23T08:10:22.241Z - success: protocol packages registered
-2021-01-23T08:10:22.241Z - success: protocol uuid registerred
-2021-01-23T08:10:22.241Z - success: protocol db registerred
-2021-01-23T08:10:22.241Z - success: protocol thumbnail registerred
-2021-01-23T08:10:22.241Z - success: protocol unpack registerred
-2021-01-23T08:10:22.242Z - success: protocol disable-commonjs registerred
-2021-01-23T08:10:22.327Z - normal: connected!
-2021-01-23T08:10:22.327Z - normal: Check project E:\jingong\JINGONG
-2021-01-23T08:10:22.328Z - normal: Initializing project E:\jingong\JINGONG
-2021-01-23T08:10:22.337Z - success: adapters loaded
-2021-01-23T08:10:22.339Z - success: asset-db-debugger loaded
-2021-01-23T08:10:22.385Z - success: fb-audience-network loaded
-2021-01-23T08:10:22.404Z - success: fb-live-stream loaded
-2021-01-23T08:10:22.406Z - success: google-play-instant loaded
-2021-01-23T08:10:22.406Z - success: huawei-adapter loaded
-2021-01-23T08:10:22.406Z - success: jkw-adapter loaded
-2021-01-23T08:10:22.407Z - success: jsb-adapter loaded
-2021-01-23T08:10:22.407Z - success: oppo-adapter loaded
-2021-01-23T08:10:22.408Z - success: package-manager loaded
-2021-01-23T08:10:22.409Z - success: qtt-adapter loaded
-2021-01-23T08:10:22.410Z - success: runtime-dev-tools loaded
-2021-01-23T08:10:22.413Z - success: sdkbox loaded
-2021-01-23T08:10:22.414Z - success: ui-kit-preview-extra loaded
-2021-01-23T08:10:22.415Z - success: ui-kit-preview loaded
-2021-01-23T08:10:22.415Z - success: vivo-adapter loaded
-2021-01-23T08:10:22.446Z - success: alipay-minigame loaded
-2021-01-23T08:10:22.484Z - success: assets loaded
-2021-01-23T08:10:22.486Z - success: baidugame-opendata loaded
-2021-01-23T08:10:22.487Z - success: baidugame loaded
-2021-01-23T08:10:22.489Z - success: builder loaded
-2021-01-23T08:10:22.584Z - success: cocos-services loaded
-2021-01-23T08:10:22.586Z - success: console loaded
-2021-01-23T08:10:22.587Z - success: curve-editor loaded
-2021-01-23T08:10:22.595Z - success: fb-instant-games loaded
-2021-01-23T08:10:22.596Z - success: game-window loaded
-2021-01-23T08:10:22.597Z - success: google-instant-games loaded
-2021-01-23T08:10:22.598Z - success: hierarchy loaded
-2021-01-23T08:10:22.600Z - success: huawei-runtime loaded
-2021-01-23T08:10:22.601Z - success: inspector loaded
-2021-01-23T08:10:22.645Z - success: cpk-publish loaded
-2021-01-23T08:10:22.646Z - success: keystore loaded
-2021-01-23T08:10:22.648Z - success: node-library loaded
-2021-01-23T08:10:22.648Z - success: open-recent-items loaded
-2021-01-23T08:10:22.650Z - success: oppo-runtime loaded
-2021-01-23T08:10:22.650Z - success: package-asset loaded
-2021-01-23T08:10:22.651Z - success: preferences loaded
-2021-01-23T08:10:22.651Z - success: project-importer loaded
-2021-01-23T08:10:22.652Z - success: project-settings loaded
-2021-01-23T08:10:22.661Z - success: qtt-runtime loaded
-2021-01-23T08:10:22.663Z - success: scene loaded
-2021-01-23T08:10:22.663Z - success: simulator-debugger loaded
-2021-01-23T08:10:22.664Z - success: sprite-editor loaded
-2021-01-23T08:10:22.665Z - success: store loaded
-2021-01-23T08:10:22.666Z - success: timeline loaded
-2021-01-23T08:10:22.668Z - success: vivo-runtime loaded
-2021-01-23T08:10:22.669Z - success: wechatgame-opendata loaded
-2021-01-23T08:10:22.671Z - success: wechatgame loaded
-2021-01-23T08:10:22.674Z - success: xiaomi-runtime loaded
-2021-01-23T08:10:23.712Z - info: Cocos Service load base data!
-2021-01-23T08:10:23.982Z - normal: Initializing Cocos2d
-2021-01-23T08:10:24.245Z - normal: Initializing engine extends
-2021-01-23T08:10:24.979Z - normal: Loading packages
-2021-01-23T08:10:24.982Z - normal: Watching packages
-2021-01-23T08:10:25.303Z - normal: Run Application
-2021-01-23T08:36:55.403Z - error: Load text file failed: E:/jingong/JINGONG/library/imports/ec/eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432.json?_t=1611391015396(error)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\uuid-loader.js:178:16
-    at LoadingItems.onComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\CCLoader.js:345:5)
-    at LoadingItems.proto.allComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:563:10)
-    at LoadingItems.proto.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:760:10)
-    at Function.LoadingItems.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:406:11)
-    at CCLoader.proto.flowOut (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:344:16)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:66:18
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\downloader.js:276:19
-    at XMLHttpRequest.xhr.onerror (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\text-downloader.js:67:5)
-2021-01-23T08:36:55.403Z - error: Load text file failed: E:/jingong/JINGONG/library/imports/ec/eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432.json?_t=1611391015396(error)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\uuid-loader.js:178:16
-    at LoadingItems.onComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\CCLoader.js:345:5)
-    at LoadingItems.proto.allComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:563:10)
-    at LoadingItems.proto.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:760:10)
-    at Function.LoadingItems.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:406:11)
-    at CCLoader.proto.flowOut (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:344:16)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:66:18
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\downloader.js:276:19
-    at XMLHttpRequest.xhr.onerror (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\text-downloader.js:67:5)
-2021-01-23T08:36:55.404Z - error: Load text file failed: E:/jingong/JINGONG/library/imports/ec/eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432.json?_t=1611391015396(error)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\uuid-loader.js:178:16
-    at LoadingItems.onComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\CCLoader.js:345:5)
-    at LoadingItems.proto.allComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:563:10)
-    at LoadingItems.proto.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:760:10)
-    at Function.LoadingItems.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:406:11)
-    at CCLoader.proto.flowOut (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:344:16)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:66:18
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\downloader.js:276:19
-    at XMLHttpRequest.xhr.onerror (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\text-downloader.js:67:5)
-2021-01-23T08:36:55.404Z - error: Load text file failed: E:/jingong/JINGONG/library/imports/ec/eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432.json?_t=1611391015396(error)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\uuid-loader.js:178:16
-    at LoadingItems.onComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\CCLoader.js:345:5)
-    at LoadingItems.proto.allComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:563:10)
-    at LoadingItems.proto.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:760:10)
-    at Function.LoadingItems.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:406:11)
-    at CCLoader.proto.flowOut (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:344:16)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:66:18
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\downloader.js:276:19
-    at XMLHttpRequest.xhr.onerror (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\text-downloader.js:67:5)
-2021-01-23T08:36:55.404Z - error: Load text file failed: E:/jingong/JINGONG/library/imports/f0/f0048c10-f03e-4c97-b9d3-3506e1d58952.json?_t=1611391015397(error)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\uuid-loader.js:178:16
-    at LoadingItems.onComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\CCLoader.js:345:5)
-    at LoadingItems.proto.allComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:563:10)
-    at LoadingItems.proto.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:760:10)
-    at Function.LoadingItems.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:406:11)
-    at CCLoader.proto.flowOut (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:344:16)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:66:18
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\downloader.js:276:19
-    at XMLHttpRequest.xhr.onerror (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\text-downloader.js:67:5)
-2021-01-23T08:36:55.404Z - error: Load text file failed: E:/jingong/JINGONG/library/imports/ec/eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432.json?_t=1611391015396(error)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\uuid-loader.js:178:16
-    at LoadingItems.onComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\CCLoader.js:345:5)
-    at LoadingItems.proto.allComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:563:10)
-    at LoadingItems.proto.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:760:10)
-    at Function.LoadingItems.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:406:11)
-    at CCLoader.proto.flowOut (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:344:16)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:66:18
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\downloader.js:276:19
-    at XMLHttpRequest.xhr.onerror (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\text-downloader.js:67:5)
-2021-01-23T08:36:55.405Z - error: Load text file failed: E:/jingong/JINGONG/library/imports/f0/f0048c10-f03e-4c97-b9d3-3506e1d58952.json?_t=1611391015397(error)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\uuid-loader.js:178:16
-    at LoadingItems.onComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\CCLoader.js:345:5)
-    at LoadingItems.proto.allComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:563:10)
-    at LoadingItems.proto.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:760:10)
-    at Function.LoadingItems.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:406:11)
-    at CCLoader.proto.flowOut (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:344:16)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:66:18
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\downloader.js:276:19
-    at XMLHttpRequest.xhr.onerror (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\text-downloader.js:67:5)
-2021-01-23T08:36:55.405Z - error: Load text file failed: E:/jingong/JINGONG/library/imports/e9/e9ec654c-97a2-4787-9325-e6a10375219a.json?_t=1611391015397(error)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\uuid-loader.js:178:16
-    at LoadingItems.onComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\CCLoader.js:345:5)
-    at LoadingItems.proto.allComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:563:10)
-    at LoadingItems.proto.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:760:10)
-    at Function.LoadingItems.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:406:11)
-    at CCLoader.proto.flowOut (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:344:16)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:66:18
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\downloader.js:276:19
-    at XMLHttpRequest.xhr.onerror (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\text-downloader.js:67:5)
-2021-01-23T08:36:55.405Z - error: Load text file failed: E:/jingong/JINGONG/library/imports/f0/f0048c10-f03e-4c97-b9d3-3506e1d58952.json?_t=1611391015397(error)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\uuid-loader.js:178:16
-    at LoadingItems.onComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\CCLoader.js:345:5)
-    at LoadingItems.proto.allComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:563:10)
-    at LoadingItems.proto.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:760:10)
-    at Function.LoadingItems.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:406:11)
-    at CCLoader.proto.flowOut (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:344:16)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:66:18
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\downloader.js:276:19
-    at XMLHttpRequest.xhr.onerror (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\text-downloader.js:67:5)
-2021-01-23T08:36:55.406Z - error: Load text file failed: E:/jingong/JINGONG/library/imports/29/29158224-f8dd-4661-a796-1ffab537140e.json?_t=1611391015397(error)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\uuid-loader.js:178:16
-    at LoadingItems.onComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\CCLoader.js:345:5)
-    at LoadingItems.proto.allComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:563:10)
-    at LoadingItems.proto.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:760:10)
-    at Function.LoadingItems.itemComplete (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loading-items.js:406:11)
-    at CCLoader.proto.flowOut (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:344:16)
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:66:18
-    at E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\downloader.js:276:19
-    at XMLHttpRequest.xhr.onerror (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\text-downloader.js:67:5)
-2021-01-23T08:36:56.336Z - info: shutdown preview server
+2021-01-23T09:15:41.030Z - normal: Load ~/.CocosCreator/settings.json
+2021-01-23T09:15:41.093Z - normal: Initializing Asset Database
+2021-01-23T09:15:41.102Z - normal: checking language setting...
+2021-01-23T09:15:41.102Z - normal: Language: zh
+2021-01-23T09:15:41.813Z - success: preview server running at http://localhost:7456
+2021-01-23T09:15:41.817Z - success: protocol editor-framework registered
+2021-01-23T09:15:41.817Z - success: protocol app registered
+2021-01-23T09:15:41.817Z - success: protocol theme registered
+2021-01-23T09:15:41.817Z - success: protocol packages registered
+2021-01-23T09:15:41.817Z - success: protocol uuid registerred
+2021-01-23T09:15:41.818Z - success: protocol db registerred
+2021-01-23T09:15:41.818Z - success: protocol thumbnail registerred
+2021-01-23T09:15:41.818Z - success: protocol unpack registerred
+2021-01-23T09:15:41.818Z - success: protocol disable-commonjs registerred
+2021-01-23T09:15:42.095Z - normal: connected!
+2021-01-23T09:15:42.096Z - normal: Check project E:\jingong
+2021-01-23T09:15:42.097Z - normal: Initializing project E:\jingong
+2021-01-23T09:15:42.112Z - success: adapters loaded
+2021-01-23T09:15:42.114Z - success: asset-db-debugger loaded
+2021-01-23T09:15:42.162Z - success: fb-audience-network loaded
+2021-01-23T09:15:42.181Z - success: fb-live-stream loaded
+2021-01-23T09:15:42.182Z - success: google-play-instant loaded
+2021-01-23T09:15:42.183Z - success: huawei-adapter loaded
+2021-01-23T09:15:42.183Z - success: jkw-adapter loaded
+2021-01-23T09:15:42.184Z - success: jsb-adapter loaded
+2021-01-23T09:15:42.184Z - success: oppo-adapter loaded
+2021-01-23T09:15:42.185Z - success: package-manager loaded
+2021-01-23T09:15:42.186Z - success: qtt-adapter loaded
+2021-01-23T09:15:42.187Z - success: runtime-dev-tools loaded
+2021-01-23T09:15:42.191Z - success: sdkbox loaded
+2021-01-23T09:15:42.192Z - success: ui-kit-preview-extra loaded
+2021-01-23T09:15:42.193Z - success: ui-kit-preview loaded
+2021-01-23T09:15:42.193Z - success: vivo-adapter loaded
+2021-01-23T09:15:42.228Z - success: alipay-minigame loaded
+2021-01-23T09:15:42.281Z - success: assets loaded
+2021-01-23T09:15:42.283Z - success: baidugame-opendata loaded
+2021-01-23T09:15:42.284Z - success: baidugame loaded
+2021-01-23T09:15:42.291Z - success: builder loaded
+2021-01-23T09:15:42.407Z - success: cocos-services loaded
+2021-01-23T09:15:42.409Z - success: console loaded
+2021-01-23T09:15:42.410Z - success: curve-editor loaded
+2021-01-23T09:15:42.421Z - success: fb-instant-games loaded
+2021-01-23T09:15:42.423Z - success: game-window loaded
+2021-01-23T09:15:42.423Z - success: google-instant-games loaded
+2021-01-23T09:15:42.425Z - success: hierarchy loaded
+2021-01-23T09:15:42.426Z - success: huawei-runtime loaded
+2021-01-23T09:15:42.427Z - success: inspector loaded
+2021-01-23T09:15:42.483Z - success: cpk-publish loaded
+2021-01-23T09:15:42.483Z - success: keystore loaded
+2021-01-23T09:15:42.489Z - success: node-library loaded
+2021-01-23T09:15:42.490Z - success: open-recent-items loaded
+2021-01-23T09:15:42.492Z - success: oppo-runtime loaded
+2021-01-23T09:15:42.492Z - success: package-asset loaded
+2021-01-23T09:15:42.493Z - success: preferences loaded
+2021-01-23T09:15:42.494Z - success: project-importer loaded
+2021-01-23T09:15:42.494Z - success: project-settings loaded
+2021-01-23T09:15:42.506Z - success: qtt-runtime loaded
+2021-01-23T09:15:42.508Z - success: scene loaded
+2021-01-23T09:15:42.508Z - success: simulator-debugger loaded
+2021-01-23T09:15:42.508Z - success: sprite-editor loaded
+2021-01-23T09:15:42.510Z - success: store loaded
+2021-01-23T09:15:42.511Z - success: timeline loaded
+2021-01-23T09:15:42.515Z - success: vivo-runtime loaded
+2021-01-23T09:15:42.516Z - success: wechatgame-opendata loaded
+2021-01-23T09:15:42.518Z - success: wechatgame loaded
+2021-01-23T09:15:42.520Z - success: xiaomi-runtime loaded
+2021-01-23T09:15:43.597Z - info: Cocos Service load base data!
+2021-01-23T09:15:43.756Z - normal: Initializing Cocos2d
+2021-01-23T09:15:44.057Z - normal: Initializing engine extends
+2021-01-23T09:15:45.424Z - normal: Loading packages
+2021-01-23T09:15:45.428Z - normal: Watching packages
+2021-01-23T09:15:45.936Z - normal: Run Application
+2021-01-23T09:21:30.386Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2021-01-23T09:21:30.386Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 783.00
+2021-01-23T09:21:30.386Z - normal: Simulator: FRAME SCALE = 0.50
+2021-01-23T09:21:31.023Z - normal: Simulator: Ready for GLSL
+2021-01-23T09:21:31.024Z - normal: Simulator: Ready for OpenGL 2.0
+2021-01-23T09:21:31.024Z - normal: Simulator: Project Config:
+2021-01-23T09:21:31.024Z - normal: Simulator:     project dir: E:\cocos\CocosCreator\resources\cocos2d-x\simulator\win32\
+2021-01-23T09:21:31.024Z - normal: Simulator:     writable path: $(PROJDIR)\
+2021-01-23T09:21:31.024Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2021-01-23T09:21:31.024Z - normal: Simulator:     frame size: 750 x 1334
+2021-01-23T09:21:31.024Z - normal: Simulator:     frame scale: 0.50
+2021-01-23T09:21:31.025Z - normal: Simulator:     show console: NO
+2021-01-23T09:21:31.025Z - normal: Simulator:     write debug log: NO ()
+2021-01-23T09:21:31.025Z - normal: Simulator:     listen: 
+2021-01-23T09:21:31.025Z - normal: Simulator:     debugger: none
+2021-01-23T09:21:31.025Z - normal: Simulator:     add searching path:
+2021-01-23T09:21:31.026Z - normal: Simulator: 
+2021-01-23T09:21:31.026Z - normal: Simulator: 
+2021-01-23T09:21:31.026Z - normal: Simulator: 
+2021-01-23T09:21:31.026Z - normal: Simulator: resetDesignResolution request
+2021-01-23T09:21:31.027Z - normal: Simulator: ------------------------------------------------
+2021-01-23T09:21:31.027Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2021-01-23T09:21:31.027Z - normal: Simulator: ------------------------------------------------
+2021-01-23T09:21:31.027Z - normal: Simulator: D/jswrapper (367): Initializing V8, version: 7.5.288.22
+2021-01-23T09:21:31.983Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2021-01-23T09:21:31.987Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2021-01-23T09:21:31.987Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2021-01-23T09:21:32.030Z - normal: Simulator: D/jswrapper (130): JS: Enable batch GL commands optimization!
+2021-01-23T09:21:32.033Z - normal: Simulator: resetDesignResolution request
+2021-01-23T09:21:32.034Z - normal: Simulator: ------------------------------------------------
+2021-01-23T09:21:32.034Z - normal: Simulator: LOAD Js FILE: main.js
+2021-01-23T09:21:32.034Z - normal: Simulator: ------------------------------------------------
+2021-01-23T09:21:32.527Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 32, maxFragUniforms: 1024, maxTextureUints: 32, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2021-01-23T09:21:32.528Z - normal: Simulator: iShow!
+2021-01-23T09:21:32.655Z - normal: Simulator: D/jswrapper (130): JS: Cocos Creator v2.3.1
+2021-01-23T09:21:34.274Z - normal: Simulator: In the constructor of HttpClient!
+2021-01-23T09:21:34.342Z - normal: Simulator: D/jswrapper (130): JS: songkai
+2021-01-23T09:21:37.602Z - normal: Simulator: D/jswrapper (444): Response failed, error buffer: Failed to connect to localhost port 8080: Connection refused
+2021-01-23T09:23:48.784Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2021-01-23T09:23:48.785Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 783.00
+2021-01-23T09:23:48.785Z - normal: Simulator: FRAME SCALE = 0.50
+2021-01-23T09:23:49.088Z - normal: Simulator: Ready for GLSL
+2021-01-23T09:23:49.088Z - normal: Simulator: Ready for OpenGL 2.0
+2021-01-23T09:23:49.089Z - normal: Simulator: Project Config:
+2021-01-23T09:23:49.089Z - normal: Simulator:     project dir: E:\cocos\CocosCreator\resources\cocos2d-x\simulator\win32\
+2021-01-23T09:23:49.089Z - normal: Simulator:     writable path: $(PROJDIR)\
+2021-01-23T09:23:49.089Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2021-01-23T09:23:49.089Z - normal: Simulator:     frame size: 750 x 1334
+2021-01-23T09:23:49.089Z - normal: Simulator:     frame scale: 0.50
+2021-01-23T09:23:49.089Z - normal: Simulator:     show console: NO
+2021-01-23T09:23:49.089Z - normal: Simulator:     write debug log: NO ()
+2021-01-23T09:23:49.089Z - normal: Simulator:     listen: 
+2021-01-23T09:23:49.090Z - normal: Simulator:     debugger: none
+2021-01-23T09:23:49.090Z - normal: Simulator:     add searching path:
+2021-01-23T09:23:49.090Z - normal: Simulator: 
+2021-01-23T09:23:49.090Z - normal: Simulator: 
+2021-01-23T09:23:49.090Z - normal: Simulator: 
+2021-01-23T09:23:49.090Z - normal: Simulator: resetDesignResolution request
+2021-01-23T09:23:49.090Z - normal: Simulator: ------------------------------------------------
+2021-01-23T09:23:49.090Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2021-01-23T09:23:49.090Z - normal: Simulator: ------------------------------------------------
+2021-01-23T09:23:49.090Z - normal: Simulator: D/jswrapper (367): Initializing V8, version: 7.5.288.22
+2021-01-23T09:23:49.965Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2021-01-23T09:23:49.965Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2021-01-23T09:23:49.966Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2021-01-23T09:23:50.000Z - normal: Simulator: D/jswrapper (130): JS: Enable batch GL commands optimization!
+2021-01-23T09:23:50.003Z - normal: Simulator: resetDesignResolution request
+2021-01-23T09:23:50.003Z - normal: Simulator: ------------------------------------------------
+2021-01-23T09:23:50.003Z - normal: Simulator: LOAD Js FILE: main.js
+2021-01-23T09:23:50.003Z - normal: Simulator: ------------------------------------------------
+2021-01-23T09:23:50.355Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 32, maxFragUniforms: 1024, maxTextureUints: 32, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2021-01-23T09:23:50.356Z - normal: Simulator: iShow!
+2021-01-23T09:23:50.462Z - normal: Simulator: D/jswrapper (130): JS: Cocos Creator v2.3.1
+2021-01-23T09:23:51.441Z - normal: Simulator: In the constructor of HttpClient!
+2021-01-23T09:23:51.528Z - normal: Simulator: D/jswrapper (130): JS: songkai
+2021-01-23T09:23:51.617Z - normal: Simulator: D/jswrapper (130): JS: {'username':'haha'}
+2021-01-23T09:23:53.250Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+E/jswrapper (272): ERROR: Uncaught ReferenceError: wx is not defined, location: dst/assets/script/login/btn_play.js:0:0
+STACK:
+[0]onTouchStartCallback@dst/assets/script/login/btn_play.js:30
+[1]277.proto.emit@src/cocos2d-jsb.js:43657
+[2]_doDispatchEvent@src/cocos2d-jsb.js:18151
+[3]dispatchEvent@src/cocos2d-jsb.js:19025
+[4]_touchStartHandler@src/cocos2d-jsb.js:18021
+[5]_onTouchEventCallback@src/cocos2d-jsb.js:32169
+[6]_dispatchEventToListeners@src/cocos2d-jsb.js:32265
+[7]_dispatchTouchEvent@src/cocos2d-jsb.js:32214
+[8]dispatchEvent@src/cocos2d-jsb.js:32461
+[9]handleTouchesBegin@src/cocos2d-jsb.js:41616
+[10]_mouseEventsOnElement@src/cocos2d-jsb.js:41789
+[11]anonymous@src/cocos2d-jsb.js:41812
+[12]dispatchEvent@jsb-adapter/jsb-builtin.js:3065
+[13]anonymous@jsb-adapter/jsb-builtin.js:3137
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0ACB5838) failed!
+2021-01-23T09:23:55.619Z - normal: Simulator: D/jswrapper (130): JS: songkai
+2021-01-23T09:23:55.658Z - normal: Simulator: D/jswrapper (130): JS: {'username':'haha'}
+2021-01-23T09:23:57.290Z - normal: Simulator: D/jswrapper (455): ScriptEngine::cleanup begin ...
+2021-01-23T09:23:57.290Z - normal: Simulator: D/jswrapper (594): GC begin ..., (js->native map) size: 120, all objects: 346
+2021-01-23T09:23:57.552Z - normal: Simulator: D/jswrapper (643): XMLHttpRequest_finalize, 0909DDF8 ... 
+2021-01-23T09:23:57.553Z - normal: Simulator: D/jswrapper (643): XMLHttpRequest_finalize, 0909B778 ... 
+2021-01-23T09:23:57.573Z - normal: Simulator: D/jswrapper (602): GC end ..., (js->native map) size: 79, all objects: 307
+2021-01-23T09:23:57.580Z - normal: Simulator: D/jswrapper (594): GC begin ..., (js->native map) size: 79, all objects: 305
+2021-01-23T09:23:57.612Z - normal: Simulator: D/jswrapper (602): GC end ..., (js->native map) size: 79, all objects: 305
+2021-01-23T09:23:57.694Z - normal: Simulator: D/jswrapper (594): GC begin ..., (js->native map) size: 0, all objects: 0
+2021-01-23T09:23:57.716Z - normal: Simulator: D/jswrapper (602): GC end ..., (js->native map) size: 0, all objects: 0
+2021-01-23T09:23:58.007Z - normal: Simulator: D/jswrapper (516): ScriptEngine::cleanup end ...
+2021-01-23T09:24:10.370Z - info: shutdown preview server

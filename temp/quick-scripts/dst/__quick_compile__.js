@@ -1,6 +1,6 @@
 
 (function () {
-var scripts = [{"deps":{"./assets/script/3d/MAIN":4,"./assets/script/education/dialog":1,"./assets/script/login/btn_play_copy":6,"./assets/script/login/btn_play":5,"./assets/script/3d/operator":2,"./assets/script/3d/over":3},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/script/education/dialog.js"},{"deps":{},"path":"preview-scripts/assets/script/3d/operator.js"},{"deps":{},"path":"preview-scripts/assets/script/3d/over.js"},{"deps":{},"path":"preview-scripts/assets/script/3d/MAIN.js"},{"deps":{},"path":"preview-scripts/assets/script/login/btn_play.js"},{"deps":{},"path":"preview-scripts/assets/script/login/btn_play_copy.js"}];
+var scripts = [{"deps":{"./assets/script/3d/operator":5,"./assets/script/education/dialog":2,"./assets/script/login/btn_play":6,"./assets/script/login/btn_play_copy":3,"./assets/script/3d/MAIN":4,"./assets/script/3d/over":1},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/script/3d/over.js"},{"deps":{},"path":"preview-scripts/assets/script/education/dialog.js"},{"deps":{},"path":"preview-scripts/assets/script/login/btn_play_copy.js"},{"deps":{},"path":"preview-scripts/assets/script/3d/MAIN.js"},{"deps":{},"path":"preview-scripts/assets/script/3d/operator.js"},{"deps":{},"path":"preview-scripts/assets/script/login/btn_play.js"}];
 var entries = ["preview-scripts/__qc_index__.js"];
 
 /**

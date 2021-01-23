@@ -12,8 +12,8 @@ cc.Class({
     this.node.on(cc.Node.EventType.TOUCH_END, this.onTouchEndCallback, this);
   },
   onTouchStartCallback: function onTouchStartCallback() {
-    // url="http://121.36.219.211:8080"
-    url = "http://localhost:8080";
+    url = "http://121.36.219.211:8080"; // url="http://localhost:8080"
+
     this.node.width = 190;
     this.node.height = 55;
     var xhr = new XMLHttpRequest();
